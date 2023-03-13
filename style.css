@@ -2,11 +2,14 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 h1{
-    font size: 60px;
+    font size: 50px;
 }
 h2{
     font-size: 40px;
+.text-white{
+    color: white;
 }
+
 section{
     display: flex;
     padding: 10%;
@@ -34,6 +37,5 @@ image{
     border-radius: 10px;
     padding: 10px 50px;
 }
-
 
 
